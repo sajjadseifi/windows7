@@ -1,22 +1,24 @@
 # windows7
 
-video demo of windows <br/>
+# video demo of windows 
+<br/><br/><br/>
 ![demo](https://github.com/sajjadseifi/files-uploaded/blob/Windows7/ezgif.com-gif-maker.gif?raw=true)
+<br/><br/>
 
-[:1:]
+<br/>[:1:]<br/>
 ![alt text](https://github.com/sajjadseifi/windows7/blob/master/overview/1.png?raw=true)
 
-[:2:]
+<br/>[:2:]<br/>
 ![alt text](https://github.com/sajjadseifi/windows7/blob/master/overview/2.png?raw=true)
 
-[:3:]
+<br/>[:3:]<br/>
 ![alt text](https://github.com/sajjadseifi/windows7/blob/master/overview/3.png?raw=true)
 
-[:4:]
+<br/>[:4:]<br/>
 ![alt text](https://github.com/sajjadseifi/windows7/blob/master/overview/4.png?raw=true)
 
-[:5:]
+<br/>[:5:]<br/>
 ![alt text](https://github.com/sajjadseifi/windows7/blob/master/overview/5.png?raw=true)
 
-[:6:]
+<br/>[:6:]<br/>
 ![alt text](https://github.com/sajjadseifi/windows7/blob/master/overview/5.png?raw=true)
