@@ -1,7 +1,9 @@
 # windows7
 
 video demo of windows <br/><br/>
+<div style="text-align:center">
 ![demo](https://github.com/sajjadseifi/files-uploaded/blob/Windows7/ezgif.com-gif-maker.gif?raw=true)
+ </div>
 <br/><br/>
 
 <br/>[:1:]<br/>
