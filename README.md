@@ -1,7 +1,6 @@
 # windows7
 
-# video demo of windows 
-<br/><br/><br/>
+video demo of windows <br/><br/>
 ![demo](https://github.com/sajjadseifi/files-uploaded/blob/Windows7/ezgif.com-gif-maker.gif?raw=true)
 <br/><br/>
 
